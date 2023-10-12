@@ -186,3 +186,10 @@ marp: true
 - 硫黄臭がとても良い。湯の花あり。湯船によって量が違う
 - 露天風呂が広い。宿泊者専用のエリアあり(小さそう)
 - https://www.hirayunomori.co.jp/
+
+---
+
+# 地図リンク
+- [山梨](https://www.google.com/maps/d/u/0/edit?mid=1x_Fn0gqJT2dp9hYyMjPcVhW00fbPDG4&usp=sharing)
+- [伊豆](https://www.google.com/maps/d/u/0/edit?mid=1kkNhwEhUSWzUhTqQhDGjsR1W3w3oswU&usp=sharing)
+- [遠征](https://www.google.com/maps/d/u/0/edit?mid=1VAVC-eeyAjH7iQ_OJh4uzjLD6VPsxmQ&usp=sharing)
