@@ -1,0 +1,20 @@
+{
+  "name": "2023-10-13-onsen",
+  "version": "1.0.0",
+  "description": "https://github.com/rchaser53/kanagawa-onsen/blob/master/slides/0-slide.md で紹介しなかった温泉について只管話すための資料",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/2023-10-13-onsen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/2023-10-13-onsen/issues"
+  },
+  "homepage": "https://github.com/rchaser53/2023-10-13-onsen#readme"
+}
